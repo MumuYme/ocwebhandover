@@ -4,7 +4,7 @@
       <div>
         <VueTyper
           class="hack-h3"
-          text=">2024"
+          text=">2025"
           :type-delay="50"
           :repeat="0"
           @typed="isfirstTypeDone = true"
@@ -33,7 +33,7 @@
       <div v-show="isThirdTypeDone">
         <VueTyper
           class="hack-extra"
-          text="06.09"
+          text="06.08"
           :type-delay="55"
           :pre-type-delay="2800"
           :repeat="0"

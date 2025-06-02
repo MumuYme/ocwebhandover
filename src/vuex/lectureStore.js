@@ -130,16 +130,16 @@ export default {
         info: "CGの基礎となる平面図形および三次元立体をコンピュータ内で表現するモデリング技術を、講義と演習を通じて学ぶ科目です。\nこの動画では森谷 友昭准教授が行列計算を使った移動の方法について説明しています。",
         links: [
           {
-            name: "▶︎ インタラクティブグラフィックス研究室（研究室公開）",
+            name: "▶︎ ビジュアルコンピューティング研究室（研究室公開）",
             url: "/labs#labo_8",
           },
-          {
-            name: "▶︎ 池田雄介教授（情報メディア学科公式HP）",
-            url: "https://www.im.dendai.ac.jp/laboratory/acl/",
-          },
+          // {
+          //   name: "▶︎ 池田雄介教授（情報メディア学科公式HP）",
+          //   url: "https://www.im.dendai.ac.jp/laboratory/acl/",
+          // },
           {
             name: "▶︎ 森谷友昭准教授（情報メディア学科公式HP）",
-            url: "https://www.im.dendai.ac.jp/laboratory/igl/",
+            url: "https://www.im.dendai.ac.jp/laboratory/vcl/",
           },
         ],
         img: lectureImg6,
@@ -151,10 +151,10 @@ export default {
         mordalTitle: "CGレンダリングおよび演習",
         year_of_enrollment: "学部3年次科目",
         professor: [
-          {
-            name: "高橋 時市郎 ",
-            type: "教授",
-          },
+          // {
+          //   name: "高橋 時市郎 ",
+          //   type: "教授",
+          // },
           {
             name: "森谷 友昭 ",
             type: "准教授",
@@ -163,16 +163,16 @@ export default {
         info: "講義では画像生成（レンダリング）技術の理論とアルゴリズムを学び、演習で代表的なレンダリング技術であるZ-buffer法および光線追跡法を用いたプログラミングを学ぶ科目です。\nこの動画では森谷 友昭准教授がShaderを使って球体に光や影をレンダリングする方法を説明しています。",
         links: [
           {
-            name: "▶︎ インタラクティブグラフィックス研究室（研究室公開）",
+            name: "▶︎ ビジュアルコンピューティング研究室（研究室公開）",
             url: "/labs#labo_8",
           },
-          {
-            name: "▶︎ 高橋時市郎教授（情報メディア学科公式HP）",
-            url: "https://www.im.dendai.ac.jp/laboratory/vcl/",
-          },
+          // {
+          //   name: "▶︎ 高橋時市郎教授（情報メディア学科公式HP）",
+          //   url: "https://www.im.dendai.ac.jp/laboratory/vcl/",
+          // },
           {
             name: "▶︎ 森谷友昭准教授（情報メディア学科公式HP）",
-            url: "https://www.im.dendai.ac.jp/laboratory/igl/",
+            url: "https://www.im.dendai.ac.jp/laboratory/vcl/",
           },
         ],
         img: lectureImg7,
