@@ -96,7 +96,7 @@ export default {
           text: "Survey",
           jptext: "アンケート",
           img: "background-image: url(" + MenuImg06 + ")",
-          to: "https://forms.gle/47uGf3yCYWWbp9fy6",
+          to: "https://forms.gle/hzXRYBWqxB4QKXHX6",
         },
       ],
     };

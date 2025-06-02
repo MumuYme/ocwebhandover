@@ -45,7 +45,7 @@ export default {
         professor: [
           {
             name: "井ノ上 寛人 ",
-            type: "助教",
+            type: "准教授",
           },
         ],
         info: "デザインの基礎を学ぶとともに、HTML、CSS、JavaScript、Node.jsなどのWebフロントエンドに関する技術を学ぶ科目です。\nこの動画では講義の概要や具体的なデザイン技術の基礎について説明しています。",
@@ -55,7 +55,7 @@ export default {
             url: "/labs#labo_6",
           },
           {
-            name: "▶︎ 井ノ上寛人助教（情報メディア学科公式HP）",
+            name: "▶︎ 井ノ上寛人准教授（情報メディア学科公式HP）",
             url: "https://www.im.dendai.ac.jp/laboratory/mal-2/",
           },
         ],

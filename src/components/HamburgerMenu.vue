@@ -70,7 +70,7 @@
       </router-link>
       <div class="py-4">
         <a
-          href="https://forms.gle/47uGf3yCYWWbp9fy6"
+          href="https://forms.gle/hzXRYBWqxB4QKXHX6"
           style="text-decoration: none; color: white"
         >
           <h3 class="mb-4">> アンケート</h3>
