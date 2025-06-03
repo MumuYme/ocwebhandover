@@ -19,7 +19,7 @@ import { store } from "./vuex/index.js";
 
 
 const PASSWORD =
-  "5d37188b0c2437ff10c03f4623fe2f0085d92aff74e37a9233e2fca1cdf692bd";
+  "db46ff6b477ba0c3ee142377ac119a5917b049c8d5f2e53338f6c91ed70dca58";
 
 export const router = createRouter({
   history: createWebHistory(),
