@@ -236,7 +236,7 @@ export default {
       },
       limitedEvent_5: {
         eventType: "限定プログラム",
-        title: "入試ガイダンス",
+        title: "入試対策",
         subTitle: "一般・共通テスト",
         place: "5号館2階 5203教室",
         peopleNum: "297名",
@@ -262,10 +262,10 @@ export default {
       },
       limitedEvent_6: {
         eventType: "限定プログラム",
-        title: "入試ガイダンス",
-        subTitle: "推薦・AO",
-        place: "1号館2階 1204教室",
-        peopleNum: "360名",
+        title: "入試対策",
+        subTitle: "総合型・学校推薦型",
+        place: "1号館2階 丹羽ホール",
+        peopleNum: "500名",
         info: "推薦入試やAO入試などをお考えの受験生必見！面接のポイント（教員は何を見るのか？）など、オープンキャンパスでしか聞けない情報を得られます。",
         img: "background-image: url(" + limitedEventImg6 + ")",
         carousel_height: true,
@@ -339,11 +339,11 @@ export default {
           eventDetailKey: "limitedEvent_5",
           time: "12:15-12:45",
         },
-        limitedEvent_7_timeSchedule_2: {
-          eventDetailKey: "limitedEvent_7",
-          time: "12:40-13:10",
-          isTimeDisplay: true,
-        },
+        // limitedEvent_7_timeSchedule_2: {
+        //   eventDetailKey: "limitedEvent_7",
+        //   time: "12:40-13:10",
+        //   isTimeDisplay: true,
+        // },
       },
       // timeSchedule_3: {
       //   limitedEvent_7_timeSchedule_3: {
