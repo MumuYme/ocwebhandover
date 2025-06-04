@@ -362,11 +362,11 @@ export default {
         },
         limitedEvent_5_timeSchedule_4: {
           eventDetailKey: "limitedEvent_5",
-          time: "13:15-13:35",
+          time: "13:15-13:45",
         },
         limitedEvent_6_timeSchedule_4: {
           eventDetailKey: "limitedEvent_6",
-          time: "13:15-13:35",
+          time: "13:15-13:45",
         },
       },
       timeSchedule_5: {
@@ -380,11 +380,11 @@ export default {
         },
         limitedEvent_5_timeSchedule_5: {
           eventDetailKey: "limitedEvent_5",
-          time: "14:15-14:35",
+          time: "14:15-14:45",
         },
         limitedEvent_6_timeSchedule_5: {
           eventDetailKey: "limitedEvent_6",
-          time: "14:15-14:35",
+          time: "14:15-14:45",
         },
       },
     },
