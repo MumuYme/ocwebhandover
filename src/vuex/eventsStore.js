@@ -263,7 +263,7 @@ export default {
       limitedEvent_6: {
         eventType: "限定プログラム",
         title: "入試対策",
-        subTitle: "総合型・学校推薦型",
+        subTitle: "総合型・学校推薦型選抜",
         place: "1号館2階 丹羽ホール",
         peopleNum: "500名",
         info: "推薦入試やAO入試などをお考えの受験生必見！面接のポイント（教員は何を見るのか？）など、オープンキャンパスでしか聞けない情報を得られます。",
