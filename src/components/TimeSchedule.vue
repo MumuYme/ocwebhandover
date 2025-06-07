@@ -53,7 +53,7 @@
                   </template>
                 </v-timeline-item>
                 <template v-for="time in timesData" :key="time">
-                  <v-timeline-item height="32px" size="xx-small">
+                  <v-timeline-item height="32px" size="xx-small" :hide-dot="time === ''">
                     <template v-slot:opposite>
                       <span class="hack"
                         ><b>{{ time }}</b></span
@@ -232,13 +232,13 @@ export default {
       lastTimeScheduleKey: String,
       timesData: [
         "11:00",
-        "11:30",
+        "",
         "12:00",
-        "12:30",
+        "",
         "13:00",
-        "13:30",
+        "",
         "14:00",
-        "14:30",
+        "",
         "15:00",
       ],
       clickedEventData: Array,
